@@ -12,7 +12,7 @@ print(new_class)
 # Code ends here
 
 
-# --------------
+# -----------------
 # Code starts here
 courses={'Math':65,'English':70,'History':80,'French':70,'Science':60}
 print(courses)
