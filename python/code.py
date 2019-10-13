@@ -1,5 +1,6 @@
 # --------------
 # Code starts here
+#class 1
 class_1=['Geoffrey Hinton','Andrew Ng','Sebastian Raschka','Yoshua Bengio']
 class_2=['Hilary Mason','Carla Gentry','Corinna Cortes']
 new_class=class_1+class_2
